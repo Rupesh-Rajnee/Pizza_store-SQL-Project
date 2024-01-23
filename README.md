@@ -1,4 +1,4 @@
-![image](https://github.com/Rupesh-Rajnee/Pizza_store-SQL-Project/assets/154409194/ee18a373-d1e7-48ca-bd49-b2e8957062f0)![image](https://github.com/Rupesh-Rajnee/Pizza_store-SQL-Project/assets/154409194/4f327539-d863-4324-8d89-fa47135ea9c8)# Pizza_store-SQL-Project
+# Pizza_store-SQL-Project
 
 Problem statement 
 
@@ -11,7 +11,7 @@ total orders- count of total orders placed
 Avg pizza per order- calcualted by total pizza sold to total number of orders placed.
 
 PROBLEM STATEMENT 
-'(KPI's REQUIREMENT 
+'KPI's REQUIREMENT 
 We need to analyze key indicators for our pizza sales data to gain insights into our business 
 performance. Specifically, we want to calculate the following metrics: 
 1. Total Revenue: The sum of the total price of all pizza orders. 
